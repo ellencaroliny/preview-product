@@ -14,20 +14,18 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 - See hover and focus states for interactive elements
 
-### Screenshot
  
 ### Links
 
 - Solution URL: https://github.com/ellencaroliny/product-card
 - Live Site URL:
 
-## My process
+
 ### Built with
 - Semantic HTML5 markup
 - CSS custom properties
 - CSS Grid
-### What I learned
-“html
+
 <h1> <div> </div> </h1>”
 ### Continued development
 Link CSS files in HTML projects.
