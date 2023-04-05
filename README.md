@@ -7,7 +7,7 @@ GO7UmttRfa).
 
 ## Table of contents
 I have to do a product preview card about a parfum;
- ### The challenge
+ 
 
 Users should be able to:
 
@@ -18,7 +18,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/ellencaroliny/product-card
-- Live Site URL:
+- Live Site URL: https://ellencaroliny.github.io/preview-product/
 
 
 ### Built with
